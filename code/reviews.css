@@ -1,0 +1,97 @@
+body{
+    
+    margin ;0;
+    padding:0;
+    background:#262626;
+    
+}
+.rating
+{
+    
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%.-50
+%);
+    display: flex;
+    
+}
+    .rating{
+        
+        position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%.-50
+%);
+        display:flex;
+           
+    }
+
+    
+    .rating input
+    {
+        
+        /*display : none;*/
+    }    
+    .rating label
+{
+    display:black;
+cursor:pointer;
+width :50px;
+background: #cc;
+}
+.rating label before {
+    
+    
+    
+    
+    
+}   
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
